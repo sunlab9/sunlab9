@@ -12,4 +12,4 @@ I'm a biology graduate currently diving into the world of **bioinformatics**.
 
 I’m passionate about using computational tools to solve biological problems. As I learn, I aim to apply my knowledge to real datasets and contribute to open science.
 
-📚 Always learning, always growing.
+
