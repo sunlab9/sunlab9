@@ -1,16 +1,15 @@
 ## Hi there 👋
+I'm a biology graduate currently diving into the world of **bioinformatics**.
 
-<!--
-**sunlab9/sunlab9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧬 I’m learning:
+- **R programming**, focusing on sequencing technologies and biological data analysis
+- **Python**, for scripting, automation, and data science
 
-Here are some ideas to get you started:
+💡 My current interests include:
+- **Cancer genomics**
+- **Rare genetic diseases**
+- **Drug development and discovery**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about using computational tools to solve biological problems. As I learn, I aim to apply my knowledge to real datasets and contribute to open science.
+
+📚 Always learning, always growing.
